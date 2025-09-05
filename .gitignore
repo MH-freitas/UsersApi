@@ -1,0 +1,26 @@
+﻿# Visual Studio
+.vs/
+*.user
+*.suo
+
+# Build
+bin/
+obj/
+[Bb]uild/
+[Ll]og/
+
+# Configuração temporária
+*.vsidx
+*.dbmdl
+*.jfm
+
+# Pacotes locais
+packages/
+*.nupkg
+
+# Arquivos do ASP.NET
+appsettings*.json
+
+# Cache
+*.tmp
+*.temp
